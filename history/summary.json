@@ -16,5 +16,23 @@
     "timeMonth": 336,
     "timeYear": 336,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Blankz!",
+    "url": "https://blankzpods.com/",
+    "icon": "https://icons.duckduckgo.com/ip3/blankzpods.com.ico",
+    "slug": "blankz",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 193,
+    "timeDay": 193,
+    "timeWeek": 193,
+    "timeMonth": 193,
+    "timeYear": 193,
+    "dailyMinutesDown": {}
   }
 ]
