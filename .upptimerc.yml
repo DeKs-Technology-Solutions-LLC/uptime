@@ -15,9 +15,6 @@ sites:
       - Tizull
   - name: Snafu
     url: http://snafusssss.com/
-    assignees:
-      - dekstech
-      - Tizull
 
 status-website:
   baseUrl: /uptime
