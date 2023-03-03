@@ -14,8 +14,9 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: https://github.com/DeKs-Technology-Solutions-LLC/White-Horse-AWS.git
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: WhiteHorse
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  name: Status
+  introTitle: "**STATUS PAGE FOR DEKSTECH**"
+  apiBaseUrl: https://api.github.com
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
