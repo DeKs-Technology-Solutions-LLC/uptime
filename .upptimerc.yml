@@ -17,6 +17,7 @@ sites:
 status-website:
   baseUrl: /uptime
   publish: true 
+  apiBaseUrl: {{ secrets.GH_PAT }}
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: StatusPage
   introTitle: "**STATUS PAGE FOR DEKSTECH**"
