@@ -4,9 +4,9 @@
     "url": "https://vapewh.com/",
     "icon": "https://icons.duckduckgo.com/ip3/vapewh.com.ico",
     "slug": "white-horse-vapor",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 586,
     "timeMonth": 558,
     "timeYear": 590,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-05": 0
+    }
   },
   {
     "name": "Blankz!",
