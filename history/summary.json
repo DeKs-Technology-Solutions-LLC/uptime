@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/vapewh.com.ico",
     "slug": "white-horse-vapor",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 599,
-    "timeDay": 493,
-    "timeWeek": 550,
-    "timeMonth": 634,
-    "timeYear": 599,
-    "dailyMinutesDown": {
-      "2023-07-06": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 600,
+    "timeDay": 577,
+    "timeWeek": 578,
+    "timeMonth": 637,
+    "timeYear": 600,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Blankz!",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 802,
-    "timeDay": 814,
-    "timeWeek": 612,
-    "timeMonth": 926,
-    "timeYear": 802,
+    "time": 801,
+    "timeDay": 660,
+    "timeWeek": 638,
+    "timeMonth": 903,
+    "timeYear": 801,
     "dailyMinutesDown": {}
   }
 ]
