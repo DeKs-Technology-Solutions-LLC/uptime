@@ -6,18 +6,16 @@
     "slug": "white-horse-vapor",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 619,
-    "timeDay": 1469,
-    "timeWeek": 887,
-    "timeMonth": 691,
+    "timeDay": 1434,
+    "timeWeek": 891,
+    "timeMonth": 694,
     "timeYear": 619,
-    "dailyMinutesDown": {
-      "2023-08-05": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Blankz!",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 780,
-    "timeDay": 1053,
-    "timeWeek": 708,
-    "timeMonth": 688,
-    "timeYear": 780,
+    "time": 779,
+    "timeDay": 576,
+    "timeWeek": 685,
+    "timeMonth": 680,
+    "timeYear": 779,
     "dailyMinutesDown": {}
   }
 ]
