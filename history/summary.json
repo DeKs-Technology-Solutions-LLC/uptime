@@ -6,9 +6,9 @@
     "slug": "white-horse-vapor",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 619,
     "timeDay": 673,
@@ -16,7 +16,7 @@
     "timeMonth": 694,
     "timeYear": 619,
     "dailyMinutesDown": {
-      "2023-08-06": 0
+      "2023-08-06": 10
     }
   },
   {
