@@ -4,20 +4,18 @@
     "url": "https://vapewh.com/",
     "icon": "https://icons.duckduckgo.com/ip3/vapewh.com.ico",
     "slug": "white-horse-vapor",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 619,
-    "timeDay": 673,
+    "time": 620,
+    "timeDay": 669,
     "timeWeek": 891,
-    "timeMonth": 694,
-    "timeYear": 619,
-    "dailyMinutesDown": {
-      "2023-08-06": 10
-    }
+    "timeMonth": 699,
+    "timeYear": 620,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Blankz!",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 779,
-    "timeDay": 576,
-    "timeWeek": 685,
-    "timeMonth": 680,
-    "timeYear": 779,
+    "time": 780,
+    "timeDay": 881,
+    "timeWeek": 779,
+    "timeMonth": 687,
+    "timeYear": 780,
     "dailyMinutesDown": {}
   }
 ]
