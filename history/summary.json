@@ -4,19 +4,19 @@
     "url": "https://vapewh.com/",
     "icon": "https://icons.duckduckgo.com/ip3/vapewh.com.ico",
     "slug": "white-horse-vapor",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 662,
-    "timeDay": 5836,
-    "timeWeek": 1840,
-    "timeMonth": 994,
-    "timeYear": 662,
+    "time": 663,
+    "timeDay": 4197,
+    "timeWeek": 1738,
+    "timeMonth": 991,
+    "timeYear": 663,
     "dailyMinutesDown": {
-      "2023-09-26": 0
+      "2023-09-26": 7
     }
   },
   {
